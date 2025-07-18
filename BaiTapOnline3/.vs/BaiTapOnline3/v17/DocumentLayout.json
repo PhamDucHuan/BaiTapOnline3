@@ -1,0 +1,448 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\SUMMER 2025\\ISC\\C#\\BaiTapOnline3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{661CF268-FDF3-4E2E-9EB1-B2D9934365B4}|BaiTapOnline3.csproj|d:\\summer 2025\\isc\\c#\\baitaponline3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{661CF268-FDF3-4E2E-9EB1-B2D9934365B4}|BaiTapOnline3.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{661CF268-FDF3-4E2E-9EB1-B2D9934365B4}|BaiTapOnline3.csproj|d:\\summer 2025\\isc\\c#\\baitaponline3\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{661CF268-FDF3-4E2E-9EB1-B2D9934365B4}|BaiTapOnline3.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{661CF268-FDF3-4E2E-9EB1-B2D9934365B4}|BaiTapOnline3.csproj|d:\\summer 2025\\isc\\c#\\baitaponline3\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{661CF268-FDF3-4E2E-9EB1-B2D9934365B4}|BaiTapOnline3.csproj|solutionrelative:services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{661CF268-FDF3-4E2E-9EB1-B2D9934365B4}|BaiTapOnline3.csproj|d:\\summer 2025\\isc\\c#\\baitaponline3\\services\\allowaccessservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{661CF268-FDF3-4E2E-9EB1-B2D9934365B4}|BaiTapOnline3.csproj|solutionrelative:services\\allowaccessservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{661CF268-FDF3-4E2E-9EB1-B2D9934365B4}|BaiTapOnline3.csproj|d:\\summer 2025\\isc\\c#\\baitaponline3\\interface\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{661CF268-FDF3-4E2E-9EB1-B2D9934365B4}|BaiTapOnline3.csproj|solutionrelative:interface\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{661CF268-FDF3-4E2E-9EB1-B2D9934365B4}|BaiTapOnline3.csproj|d:\\summer 2025\\isc\\c#\\baitaponline3\\interface\\iallowaccessservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{661CF268-FDF3-4E2E-9EB1-B2D9934365B4}|BaiTapOnline3.csproj|solutionrelative:interface\\iallowaccessservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{661CF268-FDF3-4E2E-9EB1-B2D9934365B4}|BaiTapOnline3.csproj|d:\\summer 2025\\isc\\c#\\baitaponline3\\dtos\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{661CF268-FDF3-4E2E-9EB1-B2D9934365B4}|BaiTapOnline3.csproj|solutionrelative:dtos\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{661CF268-FDF3-4E2E-9EB1-B2D9934365B4}|BaiTapOnline3.csproj|d:\\summer 2025\\isc\\c#\\baitaponline3\\data\\project_online3dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{661CF268-FDF3-4E2E-9EB1-B2D9934365B4}|BaiTapOnline3.csproj|solutionrelative:data\\project_online3dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{661CF268-FDF3-4E2E-9EB1-B2D9934365B4}|BaiTapOnline3.csproj|d:\\summer 2025\\isc\\c#\\baitaponline3\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{661CF268-FDF3-4E2E-9EB1-B2D9934365B4}|BaiTapOnline3.csproj|solutionrelative:controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{661CF268-FDF3-4E2E-9EB1-B2D9934365B4}|BaiTapOnline3.csproj|d:\\summer 2025\\isc\\c#\\baitaponline3\\controllers\\rolescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{661CF268-FDF3-4E2E-9EB1-B2D9934365B4}|BaiTapOnline3.csproj|solutionrelative:controllers\\rolescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{661CF268-FDF3-4E2E-9EB1-B2D9934365B4}|BaiTapOnline3.csproj|d:\\summer 2025\\isc\\c#\\baitaponline3\\controllers\\internscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{661CF268-FDF3-4E2E-9EB1-B2D9934365B4}|BaiTapOnline3.csproj|solutionrelative:controllers\\internscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{661CF268-FDF3-4E2E-9EB1-B2D9934365B4}|BaiTapOnline3.csproj|d:\\summer 2025\\isc\\c#\\baitaponline3\\controllers\\allowaccesscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{661CF268-FDF3-4E2E-9EB1-B2D9934365B4}|BaiTapOnline3.csproj|solutionrelative:controllers\\allowaccesscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{661CF268-FDF3-4E2E-9EB1-B2D9934365B4}|BaiTapOnline3.csproj|d:\\summer 2025\\isc\\c#\\baitaponline3\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{661CF268-FDF3-4E2E-9EB1-B2D9934365B4}|BaiTapOnline3.csproj|solutionrelative:controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{661CF268-FDF3-4E2E-9EB1-B2D9934365B4}|BaiTapOnline3.csproj|d:\\summer 2025\\isc\\c#\\baitaponline3\\services\\internservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{661CF268-FDF3-4E2E-9EB1-B2D9934365B4}|BaiTapOnline3.csproj|solutionrelative:services\\internservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{661CF268-FDF3-4E2E-9EB1-B2D9934365B4}|BaiTapOnline3.csproj|d:\\summer 2025\\isc\\c#\\baitaponline3\\services\\roleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{661CF268-FDF3-4E2E-9EB1-B2D9934365B4}|BaiTapOnline3.csproj|solutionrelative:services\\roleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{661CF268-FDF3-4E2E-9EB1-B2D9934365B4}|BaiTapOnline3.csproj|d:\\summer 2025\\isc\\c#\\baitaponline3\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{661CF268-FDF3-4E2E-9EB1-B2D9934365B4}|BaiTapOnline3.csproj|solutionrelative:services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{661CF268-FDF3-4E2E-9EB1-B2D9934365B4}|BaiTapOnline3.csproj|d:\\summer 2025\\isc\\c#\\baitaponline3\\interface\\iinternservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{661CF268-FDF3-4E2E-9EB1-B2D9934365B4}|BaiTapOnline3.csproj|solutionrelative:interface\\iinternservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{661CF268-FDF3-4E2E-9EB1-B2D9934365B4}|BaiTapOnline3.csproj|d:\\summer 2025\\isc\\c#\\baitaponline3\\interface\\iroleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{661CF268-FDF3-4E2E-9EB1-B2D9934365B4}|BaiTapOnline3.csproj|solutionrelative:interface\\iroleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{661CF268-FDF3-4E2E-9EB1-B2D9934365B4}|BaiTapOnline3.csproj|d:\\summer 2025\\isc\\c#\\baitaponline3\\interface\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{661CF268-FDF3-4E2E-9EB1-B2D9934365B4}|BaiTapOnline3.csproj|solutionrelative:interface\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{661CF268-FDF3-4E2E-9EB1-B2D9934365B4}|BaiTapOnline3.csproj|d:\\summer 2025\\isc\\c#\\baitaponline3\\baitaponline3.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{661CF268-FDF3-4E2E-9EB1-B2D9934365B4}|BaiTapOnline3.csproj|solutionrelative:baitaponline3.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{661CF268-FDF3-4E2E-9EB1-B2D9934365B4}|BaiTapOnline3.csproj|d:\\summer 2025\\isc\\c#\\baitaponline3\\migrations\\20250716132435_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{661CF268-FDF3-4E2E-9EB1-B2D9934365B4}|BaiTapOnline3.csproj|solutionrelative:migrations\\20250716132435_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{661CF268-FDF3-4E2E-9EB1-B2D9934365B4}|BaiTapOnline3.csproj|d:\\summer 2025\\isc\\c#\\baitaponline3\\models\\allowaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{661CF268-FDF3-4E2E-9EB1-B2D9934365B4}|BaiTapOnline3.csproj|solutionrelative:models\\allowaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{661CF268-FDF3-4E2E-9EB1-B2D9934365B4}|BaiTapOnline3.csproj|d:\\summer 2025\\isc\\c#\\baitaponline3\\models\\intern.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{661CF268-FDF3-4E2E-9EB1-B2D9934365B4}|BaiTapOnline3.csproj|solutionrelative:models\\intern.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{661CF268-FDF3-4E2E-9EB1-B2D9934365B4}|BaiTapOnline3.csproj|d:\\summer 2025\\isc\\c#\\baitaponline3\\models\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{661CF268-FDF3-4E2E-9EB1-B2D9934365B4}|BaiTapOnline3.csproj|solutionrelative:models\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{661CF268-FDF3-4E2E-9EB1-B2D9934365B4}|BaiTapOnline3.csproj|d:\\summer 2025\\isc\\c#\\baitaponline3\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{661CF268-FDF3-4E2E-9EB1-B2D9934365B4}|BaiTapOnline3.csproj|solutionrelative:models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "LoginModel.cs",
+              "DocumentMoniker": "D:\\SUMMER 2025\\ISC\\C#\\BaiTapOnline3\\DTOs\\LoginModel.cs",
+              "RelativeDocumentMoniker": "DTOs\\LoginModel.cs",
+              "ToolTip": "D:\\SUMMER 2025\\ISC\\C#\\BaiTapOnline3\\DTOs\\LoginModel.cs",
+              "RelativeToolTip": "DTOs\\LoginModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T14:01:23.284Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IAllowAccessService.cs",
+              "DocumentMoniker": "D:\\SUMMER 2025\\ISC\\C#\\BaiTapOnline3\\Interface\\IAllowAccessService.cs",
+              "RelativeDocumentMoniker": "Interface\\IAllowAccessService.cs",
+              "ToolTip": "D:\\SUMMER 2025\\ISC\\C#\\BaiTapOnline3\\Interface\\IAllowAccessService.cs",
+              "RelativeToolTip": "Interface\\IAllowAccessService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T13:56:33.091Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IAuthService.cs",
+              "DocumentMoniker": "D:\\SUMMER 2025\\ISC\\C#\\BaiTapOnline3\\Interface\\IAuthService.cs",
+              "RelativeDocumentMoniker": "Interface\\IAuthService.cs",
+              "ToolTip": "D:\\SUMMER 2025\\ISC\\C#\\BaiTapOnline3\\Interface\\IAuthService.cs",
+              "RelativeToolTip": "Interface\\IAuthService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T13:55:35.413Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AllowAccessService.cs",
+              "DocumentMoniker": "D:\\SUMMER 2025\\ISC\\C#\\BaiTapOnline3\\Services\\AllowAccessService.cs",
+              "RelativeDocumentMoniker": "Services\\AllowAccessService.cs",
+              "ToolTip": "D:\\SUMMER 2025\\ISC\\C#\\BaiTapOnline3\\Services\\AllowAccessService.cs",
+              "RelativeToolTip": "Services\\AllowAccessService.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAgwEMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T13:58:17.279Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "D:\\SUMMER 2025\\ISC\\C#\\BaiTapOnline3\\Services\\AuthService.cs",
+              "RelativeDocumentMoniker": "Services\\AuthService.cs",
+              "ToolTip": "D:\\SUMMER 2025\\ISC\\C#\\BaiTapOnline3\\Services\\AuthService.cs",
+              "RelativeToolTip": "Services\\AuthService.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAwBsAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T13:57:15.641Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\SUMMER 2025\\ISC\\C#\\BaiTapOnline3\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "D:\\SUMMER 2025\\ISC\\C#\\BaiTapOnline3\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-16T13:20:24.007Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\SUMMER 2025\\ISC\\C#\\BaiTapOnline3\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\SUMMER 2025\\ISC\\C#\\BaiTapOnline3\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACIAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T13:17:59.248Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Project_Online3DBContext.cs",
+              "DocumentMoniker": "D:\\SUMMER 2025\\ISC\\C#\\BaiTapOnline3\\Data\\Project_Online3DBContext.cs",
+              "RelativeDocumentMoniker": "Data\\Project_Online3DBContext.cs",
+              "ToolTip": "D:\\SUMMER 2025\\ISC\\C#\\BaiTapOnline3\\Data\\Project_Online3DBContext.cs",
+              "RelativeToolTip": "Data\\Project_Online3DBContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T13:15:56.703Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "D:\\SUMMER 2025\\ISC\\C#\\BaiTapOnline3\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "Controllers\\UsersController.cs",
+              "ToolTip": "D:\\SUMMER 2025\\ISC\\C#\\BaiTapOnline3\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "Controllers\\UsersController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T13:38:34.964Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "RolesController.cs",
+              "DocumentMoniker": "D:\\SUMMER 2025\\ISC\\C#\\BaiTapOnline3\\Controllers\\RolesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\RolesController.cs",
+              "ToolTip": "D:\\SUMMER 2025\\ISC\\C#\\BaiTapOnline3\\Controllers\\RolesController.cs",
+              "RelativeToolTip": "Controllers\\RolesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T13:38:19.916Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "InternsController.cs",
+              "DocumentMoniker": "D:\\SUMMER 2025\\ISC\\C#\\BaiTapOnline3\\Controllers\\InternsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\InternsController.cs",
+              "ToolTip": "D:\\SUMMER 2025\\ISC\\C#\\BaiTapOnline3\\Controllers\\InternsController.cs",
+              "RelativeToolTip": "Controllers\\InternsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T13:37:57.877Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AllowAccessController.cs",
+              "DocumentMoniker": "D:\\SUMMER 2025\\ISC\\C#\\BaiTapOnline3\\Controllers\\AllowAccessController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AllowAccessController.cs",
+              "ToolTip": "D:\\SUMMER 2025\\ISC\\C#\\BaiTapOnline3\\Controllers\\AllowAccessController.cs",
+              "RelativeToolTip": "Controllers\\AllowAccessController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T13:36:51.764Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "D:\\SUMMER 2025\\ISC\\C#\\BaiTapOnline3\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AuthController.cs",
+              "ToolTip": "D:\\SUMMER 2025\\ISC\\C#\\BaiTapOnline3\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T13:37:43.3Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "InternService.cs",
+              "DocumentMoniker": "D:\\SUMMER 2025\\ISC\\C#\\BaiTapOnline3\\Services\\InternService.cs",
+              "RelativeDocumentMoniker": "Services\\InternService.cs",
+              "ToolTip": "D:\\SUMMER 2025\\ISC\\C#\\BaiTapOnline3\\Services\\InternService.cs",
+              "RelativeToolTip": "Services\\InternService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T13:58:31.284Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "RoleService.cs",
+              "DocumentMoniker": "D:\\SUMMER 2025\\ISC\\C#\\BaiTapOnline3\\Services\\RoleService.cs",
+              "RelativeDocumentMoniker": "Services\\RoleService.cs",
+              "ToolTip": "D:\\SUMMER 2025\\ISC\\C#\\BaiTapOnline3\\Services\\RoleService.cs",
+              "RelativeToolTip": "Services\\RoleService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAgwBwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T13:58:01.631Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "D:\\SUMMER 2025\\ISC\\C#\\BaiTapOnline3\\Services\\UserService.cs",
+              "RelativeDocumentMoniker": "Services\\UserService.cs",
+              "ToolTip": "D:\\SUMMER 2025\\ISC\\C#\\BaiTapOnline3\\Services\\UserService.cs",
+              "RelativeToolTip": "Services\\UserService.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAgwEsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T13:57:47.159Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "IInternService.cs",
+              "DocumentMoniker": "D:\\SUMMER 2025\\ISC\\C#\\BaiTapOnline3\\Interface\\IInternService.cs",
+              "RelativeDocumentMoniker": "Interface\\IInternService.cs",
+              "ToolTip": "D:\\SUMMER 2025\\ISC\\C#\\BaiTapOnline3\\Interface\\IInternService.cs",
+              "RelativeToolTip": "Interface\\IInternService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T13:56:52.131Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "IRoleService.cs",
+              "DocumentMoniker": "D:\\SUMMER 2025\\ISC\\C#\\BaiTapOnline3\\Interface\\IRoleService.cs",
+              "RelativeDocumentMoniker": "Interface\\IRoleService.cs",
+              "ToolTip": "D:\\SUMMER 2025\\ISC\\C#\\BaiTapOnline3\\Interface\\IRoleService.cs",
+              "RelativeToolTip": "Interface\\IRoleService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T13:56:16.591Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "D:\\SUMMER 2025\\ISC\\C#\\BaiTapOnline3\\Interface\\IUserService.cs",
+              "RelativeDocumentMoniker": "Interface\\IUserService.cs",
+              "ToolTip": "D:\\SUMMER 2025\\ISC\\C#\\BaiTapOnline3\\Interface\\IUserService.cs",
+              "RelativeToolTip": "Interface\\IUserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T13:55:52.84Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "BaiTapOnline3",
+              "DocumentMoniker": "D:\\SUMMER 2025\\ISC\\C#\\BaiTapOnline3\\BaiTapOnline3.csproj",
+              "RelativeDocumentMoniker": "BaiTapOnline3.csproj",
+              "ToolTip": "D:\\SUMMER 2025\\ISC\\C#\\BaiTapOnline3\\BaiTapOnline3.csproj",
+              "RelativeToolTip": "BaiTapOnline3.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-07-17T13:54:49.264Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "20250716132435_InitialCreate.cs",
+              "DocumentMoniker": "D:\\SUMMER 2025\\ISC\\C#\\BaiTapOnline3\\Migrations\\20250716132435_InitialCreate.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250716132435_InitialCreate.cs",
+              "ToolTip": "D:\\SUMMER 2025\\ISC\\C#\\BaiTapOnline3\\Migrations\\20250716132435_InitialCreate.cs",
+              "RelativeToolTip": "Migrations\\20250716132435_InitialCreate.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABAAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T13:24:36.114Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\SUMMER 2025\\ISC\\C#\\BaiTapOnline3\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Models\\User.cs",
+              "ToolTip": "D:\\SUMMER 2025\\ISC\\C#\\BaiTapOnline3\\Models\\User.cs",
+              "RelativeToolTip": "Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T13:14:09.066Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Role.cs",
+              "DocumentMoniker": "D:\\SUMMER 2025\\ISC\\C#\\BaiTapOnline3\\Models\\Role.cs",
+              "RelativeDocumentMoniker": "Models\\Role.cs",
+              "ToolTip": "D:\\SUMMER 2025\\ISC\\C#\\BaiTapOnline3\\Models\\Role.cs",
+              "RelativeToolTip": "Models\\Role.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T13:14:03.827Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Intern.cs",
+              "DocumentMoniker": "D:\\SUMMER 2025\\ISC\\C#\\BaiTapOnline3\\Models\\Intern.cs",
+              "RelativeDocumentMoniker": "Models\\Intern.cs",
+              "ToolTip": "D:\\SUMMER 2025\\ISC\\C#\\BaiTapOnline3\\Models\\Intern.cs",
+              "RelativeToolTip": "Models\\Intern.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAADwvwAAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T13:13:59.739Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "AllowAccess.cs",
+              "DocumentMoniker": "D:\\SUMMER 2025\\ISC\\C#\\BaiTapOnline3\\Models\\AllowAccess.cs",
+              "RelativeDocumentMoniker": "Models\\AllowAccess.cs",
+              "ToolTip": "D:\\SUMMER 2025\\ISC\\C#\\BaiTapOnline3\\Models\\AllowAccess.cs",
+              "RelativeToolTip": "Models\\AllowAccess.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T13:13:45.766Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
