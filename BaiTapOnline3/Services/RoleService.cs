@@ -25,5 +25,26 @@ namespace BaiTapOnline3.Services
             await _context.SaveChangesAsync();
             return role;
         }
+        public async Task<Role?> UpdateRoleAsync(int id, Role role)
+        {
+            var existingRole = await _context.Roles.FindAsync(id);
+            if (existingRole == null)
+                return null;
+
+            existingRole.RoleName = role.RoleName;
+            await _context.SaveChangesAsync();
+            return existingRole;
+        }
+
+        public async Task<bool> DeleteRoleAsync(int id)
+        {
+            var role = await _context.Roles.FindAsync(id);
+            if (role == null)
+                return false;
+
+            _context.Roles.Remove(role);
+            await _context.SaveChangesAsync();
+            return true;
+        }
     }
 }

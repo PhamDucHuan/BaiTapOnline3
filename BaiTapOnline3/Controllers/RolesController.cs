@@ -30,5 +30,26 @@ namespace BaiTapOnline3.Controllers
             var createdRole = await _roleService.CreateRoleAsync(role);
             return CreatedAtAction(nameof(GetRoles), new { id = createdRole.RoleId }, createdRole);
         }
+
+        [HttpPut("{id}")]
+        public async Task<IActionResult> PutRole(int id, Role role)
+        {
+            var updatedRole = await _roleService.UpdateRoleAsync(id, role);
+            if (updatedRole == null)
+                return NotFound(new { message = "Role not found" });
+
+            return Ok(updatedRole);
+        }
+
+        [HttpDelete("{id}")]
+        public async Task<IActionResult> DeleteRole(int id)
+        {
+            var deleted = await _roleService.DeleteRoleAsync(id);
+            if (!deleted)
+                return NotFound(new { message = "Role not found" });
+
+            return NoContent(); // Xóa thành công
+        }
+
     }
 }
